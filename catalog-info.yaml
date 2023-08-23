@@ -6,6 +6,6 @@ metadata:
     github.com/project-slug: kadel/hello-quarkus
     backstage.io/kubernetes-id: hello-quarkus
 spec:
-  type: other
+  type: website
   lifecycle: unknown
   owner: guests
