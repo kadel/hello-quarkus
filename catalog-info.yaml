@@ -4,6 +4,7 @@ metadata:
   name: hello-quarkus
   annotations:
     github.com/project-slug: kadel/hello-quarkus
+    backstage.io/kubernetes-id: hello-quarkus
 spec:
   type: other
   lifecycle: unknown
