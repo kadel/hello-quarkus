@@ -2,6 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: hello-quarkus
+  title: Hello Quarkus
   annotations:
     github.com/project-slug: kadel/hello-quarkus
     backstage.io/kubernetes-id: hello-quarkus
