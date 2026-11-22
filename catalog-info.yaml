@@ -3,10 +3,11 @@ kind: Component
 metadata:
   name: hello-quarkus
   title: Hello Quarkus
+  description: Quarkus demo application with a simple HTTP greeting endpoint.
   annotations:
     github.com/project-slug: kadel/hello-quarkus
     backstage.io/kubernetes-id: hello-quarkus
 spec:
   type: website
-  lifecycle: unknown
-  owner: guests
+  lifecycle: experimental
+  owner: user:default/kadel
